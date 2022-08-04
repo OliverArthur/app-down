@@ -7,7 +7,7 @@ This a simple python CLI app to check if a website is down by passing the url as
 ## Setup
 
 ```sh
-git clone git+ssh://oliverarthur/app-down.git
+git clone https://github.com/OliverArthur/app-down.git
 ```
 
 Go to the directory folder
